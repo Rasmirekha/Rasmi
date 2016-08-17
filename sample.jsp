@@ -1,1 +1,1 @@
-<%=request.getParameter("Rasmi")>
+<%=request.getParameter("Rasmi")%>
